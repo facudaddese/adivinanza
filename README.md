@@ -1,3 +1,10 @@
-Juego de adivinanza!
+# Adivinanza
+Otro juego sencillo para los que tienen suerte! Adivinar el número con los menos intentos posibles.
 
-Adivina el numero con el menor numero de intentos posibles.
+## Uso de:
+
+ 1. Condicionales.
+ 2. Funciones.
+ 3. Math.round().
+ 4. IDE VSCODE.
+ 
