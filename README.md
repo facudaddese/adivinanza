@@ -1,5 +1,5 @@
 # Adivinanza
-Otro juego sencillo para los que tienen suerte! Adivinar el número con los menos intentos posibles.
+> Un juego de adivinanza donde el usuario debe adivinar un número en el menor número de intentos posibles, recibiendo pistas para acercarse a la respuesta correcta.
 
 ## Uso de:
 
